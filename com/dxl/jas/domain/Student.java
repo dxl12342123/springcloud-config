@@ -6,7 +6,9 @@ public class Student {
     private String name;
     private String cls;
 
+
     @Override
+    //阿辉
     public String toString() {
         return "Student{" +
                 "id='" + id + '\'' +
