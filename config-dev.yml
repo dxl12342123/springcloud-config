@@ -1,2 +1,2 @@
 config:
-info: "mater brach,springcloud-config/config-dev.yml version=1"
+  info: "mater brach,springcloud-config/config-dev.yml version=1"
